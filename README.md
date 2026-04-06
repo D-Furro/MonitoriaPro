@@ -70,6 +70,7 @@ Animações suaves
 
 
 📂 Estrutura do Projeto
+
 📁 monitoria-pro/
 
  ├── index.html        # Aplicação principal
