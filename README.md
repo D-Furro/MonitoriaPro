@@ -89,7 +89,11 @@ Clique com botão direito → "Open with Live Server"
 
 🧩 Casos de Uso
 Call centers (monitoria de qualidade)
+
 Suporte ao cliente
+
 Equipes comerciais
+
 Auditorias internas
+
 Gestão de produtividade
