@@ -71,10 +71,15 @@ Animações suaves
 
 📂 Estrutura do Projeto
 📁 monitoria-pro/
+
  ├── index.html        # Aplicação principal
+ 
  ├── assets/           # (opcional) imagens, ícones
+ 
  ├── scripts/          # (futuro) JS modularizado
+ 
  ├── styles/           # (futuro) CSS separado
+ 
  # 1. Baixar o projeto
 # 2. Abrir o arquivo index.html no navegador
 
